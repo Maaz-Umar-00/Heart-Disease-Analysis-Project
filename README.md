@@ -13,7 +13,7 @@
 ---
 
 
-## Overview:
+## Overview
 This project is designed to unlock the potential of heart disease data, **transforming it into actionable insights that can shape healthcare strategies.** By diving deep into the data, we aim to discover key risk factors, patterns, and trends that can lead to more effective healthcare interventions, **improving both patient outcomes and operational efficiency.**
 
 ### Key Objectives:
@@ -30,7 +30,7 @@ The **SQL** queries used to **clean** the data can be found [here](https://githu
 
 
 
-## Data Structure & Initial Checks.
+## Data Structure & Initial Checks
 The dataset used for this analysis is sourced from [https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]) and includes the following features:
 
 * `id:` A unique identifier assigned to each patient. It helps to distinguish between different patients but doesn't provide any medical information.
