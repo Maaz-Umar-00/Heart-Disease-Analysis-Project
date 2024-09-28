@@ -63,6 +63,12 @@ The dataset used for this analysis is sourced from [https://www.kaggle.com/datas
 
    ![Gender Distribution by Region](./05_All_charts_pics/gender_region_distribution.png)
 
+2. **Age Distribution and Heart Disease**:
+   - `Middle-aged` and `older` individuals have the `highest rates of heart disease`, which aligns with expectations since the likelihood of developing heart disease increases with age.
+   - Preventative healthcare strategies should focus on these age groups by promoting regular heart health check-ups and early lifestyle modifications to lower risk.
+
+   ![Age Groups and Heart Disease](./05_All_charts_pics/heart_disease_by_age_group.png)
+
 
 
 ## Installation
