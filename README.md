@@ -5,7 +5,7 @@
 
 
 ## Overview:
-This project is designed to unlock the potential of heart disease data, transforming it into actionable insights that can shape healthcare strategies. By diving deep into the data, we aim to discover key risk factors, patterns, and trends that can lead to more effective healthcare interventions, improving both patient outcomes and operational efficiency.
+This project is designed to unlock the potential of heart disease data, **transforming it into actionable insights that can shape healthcare strategies.** By diving deep into the data, we aim to discover key risk factors, patterns, and trends that can lead to more effective healthcare interventions, **improving both patient outcomes and operational efficiency.**
 
 ### Key Objectives:
 
@@ -14,7 +14,7 @@ This project is designed to unlock the potential of heart disease data, transfor
 - **Optimizing resource allocation:** Insights from the data will help in making informed decisions about where to allocate healthcare resources most effectively, ensuring better patient care and minimizing costs.
 - **Strategic policy development:** With data-backed insights, healthcare organizations can refine their policies and strategies, improving the efficiency of treatments and enhancing overall healthcare delivery.
 
-This project aims to provide healthcare providers with the intelligence they need to make smarter, data-driven decisions. By aligning heart disease insights with operational goals, the results will enable more efficient healthcare management, better patient care, and ultimately a healthier population.
+This project aims to provide healthcare providers with the intelligence they need to **make smarter, data-driven decisions.** By aligning heart disease insights with operational goals, the results will enable more **efficient healthcare management, better patient care, and ultimately a healthier population.**
 
 The **SQL** queries used to **analyze** the data can be found [here](https://github.com/Maaz-Umar-00/Heart-Disease-Analysis-Project/blob/main/02_heart_diseases_data_analysis.ipynb).\
 The **SQL** queries used to **clean** the data can be found [here](https://github.com/Maaz-Umar-00/Heart-Disease-Analysis-Project/blob/main/01_heart_disease_data_cleaning.ipynb).
