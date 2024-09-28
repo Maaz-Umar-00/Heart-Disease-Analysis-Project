@@ -19,20 +19,10 @@ This project aims to provide healthcare providers with the intelligence they nee
 The **SQL** queries used to **analyze** the data can be found [here](https://github.com/Maaz-Umar-00/Heart-Disease-Analysis-Project/blob/main/02_heart_diseases_data_analysis.ipynb).\
 The **SQL** queries used to **clean** the data can be found [here](https://github.com/Maaz-Umar-00/Heart-Disease-Analysis-Project/blob/main/01_heart_disease_data_cleaning.ipynb).
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Visualizations](#visualizations)
-- [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
 
-## Introduction
-Heart disease is one of the leading causes of death worldwide. This project aims to analyze heart disease data to uncover trends and factors that contribute to heart health. The analysis includes examining demographic information, cholesterol levels, blood pressure, and other clinical data.
 
-## Dataset
-The dataset used for this analysis is sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) and includes the following features:
+## Data Structure & Initial Checks.
+The dataset used for this analysis is sourced from [https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]) and includes the following features:
 - Age
 - Sex
 - Chest Pain Type
