@@ -1,4 +1,8 @@
-# Heart Disease Analysis
+<h1 style="font-family: 'Poppins', sans-serif; font-weight: 700; color: #1c1c1c; background: white; padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); letter-spacing: 1px; text-transform: capitalize; font-size: 1.5rem;">
+<span style="color: #333333;">Heart disease analysis</span>
+</h1>
+
+
 
 ## Overview
 This project focuses on analyzing heart disease data to identify patterns and risk factors associated with heart conditions. By exploring various data visualizations and statistical analyses, we aim to provide insights that can aid in understanding heart disease better.
