@@ -2,6 +2,15 @@
 <span style="color: #333333;">Heart disease analysis</span>
 </h1>
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Data Structure & Initial Checks](#data-structure--initial-checks)
+3. [Findings and Recommendations](#findings-and-recommendations)
+4. [Installation](#installation)
+5. [Conclusion](#conclusion)
+6. [Acknowledgments](#acknowledgments)
+
+---
 
 
 ## Overview:
@@ -53,7 +62,7 @@ The dataset used for this analysis is sourced from [https://www.kaggle.com/datas
   - 0: No heart disease.
   - 1: 1, 2, and 4 indicate varying levels of disease presence.
  
-3
+
 
 ## Findings and Recommendations
 
@@ -75,6 +84,7 @@ The dataset used for this analysis is sourced from [https://www.kaggle.com/datas
 
    ![Blood Pressure and Cholesterol by Age](./05_All_charts_pics/Relationship_between_age_and_blood_pressure_based_on_sex.png)
 
+For more information or insights, please click [here](https://github.com/Maaz-Umar-00/Heart-Disease-Analysis-Project/blob/main/02_heart_diseases_data_analysis.ipynb).
 
 ## Installation
 To run this project, you will need to have the following installed:
