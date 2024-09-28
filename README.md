@@ -69,6 +69,11 @@ The dataset used for this analysis is sourced from [https://www.kaggle.com/datas
 
    ![Age Groups and Heart Disease](./05_All_charts_pics/heart_disease_by_age_group.png)
 
+3. **Impact of Age on Blood Pressure and Cholesterol**:
+   - It was found that as `age increases, both resting blood pressure and cholesterol levels tend to rise`. This could explain why `middle-aged and older individuals have a higher risk of heart disease`.
+   - Healthcare providers should emphasize regular monitoring of blood pressure and cholesterol in older populations, offering lifestyle interventions and medications as needed to control these risk factors.
+
+   ![Blood Pressure and Cholesterol by Age](./05_All_charts_pics/Relationship_between_age_and_blood_pressure_based_on_sex..png)
 
 
 ## Installation
