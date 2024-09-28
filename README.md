@@ -11,8 +11,8 @@ This project is designed to unlock the potential of heart disease data, transfor
 
 - **Pinpointing high-risk populations:** By identifying which groups are most at risk, healthcare providers can prioritize resources and design targeted interventions, ultimately reducing the burden of heart disease.
 - **Proactive healthcare planning:** Analyzing trends in the data can help forecast future healthcare needs, allowing for earlier intervention and more personalized care strategies for at-risk individuals.
--- **Optimizing resource allocation:** Insights from the data will help in making informed decisions about where to allocate healthcare resources most effectively, ensuring better patient care and minimizing costs.
--- **Strategic policy development:** With data-backed insights, healthcare organizations can refine their policies and strategies, improving the efficiency of treatments and enhancing overall healthcare delivery.
+- **Optimizing resource allocation:** Insights from the data will help in making informed decisions about where to allocate healthcare resources most effectively, ensuring better patient care and minimizing costs.
+- **Strategic policy development:** With data-backed insights, healthcare organizations can refine their policies and strategies, improving the efficiency of treatments and enhancing overall healthcare delivery.
 
 This project aims to provide healthcare providers with the intelligence they need to make smarter, data-driven decisions. By aligning heart disease insights with operational goals, the results will enable more efficient healthcare management, better patient care, and ultimately a healthier population.
 ## Table of Contents
