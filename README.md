@@ -61,7 +61,7 @@ The dataset used for this analysis is sourced from [https://www.kaggle.com/datas
    - The dataset shows that `565 males` and `183 females` were recorded, indicating a higher prevalence of heart disease among males.
    - This suggests that healthcare interventions should focus more on male populations, especially in terms of awareness and early screening programs to reduce risk.
 
-   ![Gender Distribution by Region](./All_graphs_pics/gender_region_distribution.png)
+   ![Gender Distribution by Region](./All_charts_pics/gender_region_distribution.png)
 
 
 
