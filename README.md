@@ -23,20 +23,35 @@ The **SQL** queries used to **clean** the data can be found [here](https://githu
 
 ## Data Structure & Initial Checks.
 The dataset used for this analysis is sourced from [https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]) and includes the following features:
-- Age
-- Sex
-- Chest Pain Type
-- Resting Blood Pressure
-- Cholesterol Level
-- Fasting Blood Sugar
-- Resting ECG Results
-- Maximum Heart Rate
-- Exercise Induced Angina
-- Oldpeak (depression induced by exercise)
-- Slope of the Peak Exercise ST Segment
-- Number of Major Vessels (0-3)
-- Thalassemia
-- Target Variable (Heart Disease Presence)
+
+* `id:` A unique identifier assigned to each patient. It helps to distinguish between different patients but doesn't provide any medical information.
+* `age:` The patient's age in years. Age is a key factor in assessing heart disease risk, as older individuals generally have a higher risk.
+* `dataset:` The place or source of the study or data collection. This might be useful for understanding geographic variations in the data.
+* `sex:` The patient's gender (Male or Female). Gender can influence the likelihood of developing heart disease, with different risks associated with each gender.
+* `cp (chest pain type):` Indicates the type of chest pain experienced by the patient:
+  - 1: Typical angina - pain due to heart disease.
+  - 2: Atypical angina - pain not necessarily related to heart disease.
+  - 3: Non-anginal pain - pain not related to the heart.
+  - 4: Asymptomatic - no chest pain experienced.
+* `trestbps:` Resting blood pressure (in mm Hg) measured when the patient is admitted to the hospital. High blood pressure is a known risk factor for heart disease.
+* `chol:` Serum cholesterol level (in mg/dl). High cholesterol levels can increase the risk of heart disease.
+* `fbs:` Indicates whether the patient's fasting blood sugar level is greater than 120 mg/dl (True or False). High fasting blood sugar can be a sign of diabetes, which is a risk factor for heart disease.
+* `restecg:` Resting electrocardiographic results:
+  - 1: Normal heart activity.
+  - 2: ST-T wave abnormality, which can indicate heart issues.
+  - 3: Left ventricular hypertrophy, an enlargement of the heart's left ventricle.
+* `thalach:` Maximum heart rate achieved during exercise. A higher heart rate can indicate better cardiovascular fitness, but extremely high or low rates can be a concern.
+* `exang:` Exercise-induced angina (True or False). Indicates whether exercise triggers chest pain, which can be a sign of heart disease.
+* `oldpeak:` ST depression caused by exercise relative to rest. ST depression can be a sign of heart disease.
+* `slope:` The slope of the peak exercise ST segment:
+  - 1: Upsloping - indicates better exercise tolerance.
+  - 2: Flat - can be normal or indicative of heart issues.
+  - 3: Downsloping - often associated with heart disease.
+* `ca:` Number of major vessels (0-3) colored by fluoroscopy. More vessels colored indicates more significant coronary artery disease.
+* `thal:` Thalassemia status.
+* `num:` Indicates whether heart disease is present:
+  - 0: No heart disease.
+  - 1: 1, 2, and 4 indicate varying levels of disease presence.
 
 ## Installation
 To run this project, you will need to have the following installed:
