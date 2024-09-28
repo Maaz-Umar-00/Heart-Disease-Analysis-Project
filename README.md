@@ -4,7 +4,7 @@
 
 
 
-## Overview
+## Overview:
 This project is designed to unlock the potential of heart disease data, transforming it into actionable insights that can shape healthcare strategies. By diving deep into the data, we aim to discover key risk factors, patterns, and trends that can lead to more effective healthcare interventions, improving both patient outcomes and operational efficiency.
 
 ### Key Objectives:
