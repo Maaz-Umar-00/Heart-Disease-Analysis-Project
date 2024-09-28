@@ -26,7 +26,7 @@ This project is designed to unlock the potential of heart disease data, **transf
 This project aims to provide healthcare providers with the intelligence they need to **make smarter, data-driven decisions.** By aligning heart disease insights with operational goals, the results will enable more **efficient healthcare management, better patient care, and ultimately a healthier population.**
 
 The **Python code** used to **analyze** the data can be found [here](https://github.com/Maaz-Umar-00/Heart-Disease-Analysis-Project/blob/main/02_heart_diseases_data_analysis.ipynb).\
-The **Python code** queries used to **clean** the data can be found [here](https://github.com/Maaz-Umar-00/Heart-Disease-Analysis-Project/blob/main/01_heart_disease_data_cleaning.ipynb).
+The **Python code** used to **clean** the data can be found [here](https://github.com/Maaz-Umar-00/Heart-Disease-Analysis-Project/blob/main/01_heart_disease_data_cleaning.ipynb).
 
 
 
